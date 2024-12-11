@@ -1,14 +1,14 @@
 Olá, bem-vindo!! <img src="https://media1.tenor.com/m/LRCCXE3cwosAAAAd/gandalf-bilbo.gif" alt="Descrição do GIF" width="160" align="right">
 =  
 <br>
-Sou professor do curso técnico de Desenvolvimento de Sistemas da Proz Educação e desenvolvedor back-end, com foco em Java e integração com bancos de dados relacionais.
-
+Sou professor do curso técnico de Desenvolvimento de Sistemas da Proz Educação e desenvolvedor back-end, com foco em Java e integração com bancos de dados relacionais.  
+<br><br>
 Aqui salvo repositórios que uso para ministrar minhas aulas e alguns projetos pessoais.
-
-🔭 Trabalho na Proz Educação  
-🌱 Estou estudando Spring Boot e mensageria  
-📫 Como entrar em contato comigo: rodrigo.ifsemg@gmail.com  
-⚡Tecnologias preferidas: Java, SQL, HTML/CSS e Javascript
+<br><br>
+🔭 Trabalho na Proz Educação  <br>
+🌱 Estou estudando Spring Boot e mensageria  <br>
+📫 Como entrar em contato comigo: rodrigo.ifsemg@gmail.com  <br>
+⚡Tecnologias preferidas: Java, SQL, HTML/CSS e Javascript<br>
 <!--
 **Kobaldo/Kobaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
