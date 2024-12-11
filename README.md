@@ -1,8 +1,8 @@
 Olá, bem-vindo!!  
 =  
-<img src="https://media1.tenor.com/m/nwgQTus2ubwAAAAd/eddie-munson-welcome.gif)" alt="Descrição do GIF" width="100">
+<img src="https://media1.tenor.com/m/84SpdSqeGicAAAAd/welcome-lotr.gif" alt="Descrição do GIF" width="110">
 
-Sou professor do curso técnico de Desenvolvimento de Sistemas da Proz Educação e desenvolvedor back-end nas horas vagas, com foco em Java e integração com bancos de dados relacionais.
+Sou professor do curso técnico de Desenvolvimento de Sistemas da Proz Educação e desenvolvedor back-end, com foco em Java e integração com bancos de dados relacionais.
 
 Aqui salvo repositórios que uso para ministrar minhas aulas e alguns projetos pessoais.
 
