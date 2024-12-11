@@ -3,10 +3,10 @@ Oi, tudo bem? <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/
 
 Sou professor do curso técnico de Desenvolvimento de Sistemas da Proz Educação e desenvolvedor back-end nas horas vagas, com foco em Java e integração com bancos de dados relacionais.
 
-🔭 Trabalho na Proz Educação
-🌱 Estou estudando Spring Boot e mensageria
-📫 Como entrar em contato comigo: rodrigo.ifsemg@gmail.com
-
+🔭 Trabalho na Proz Educação  
+🌱 Estou estudando Spring Boot e mensageria  
+📫 Como entrar em contato comigo: rodrigo.ifsemg@gmail.com  
+⚡Tecnologias preferidas: Java, SQL, HTML/CSS e Javascript
 <!--
 **Kobaldo/Kobaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
