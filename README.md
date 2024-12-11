@@ -1,4 +1,4 @@
-Olá, bem-vindo!!<img src="https://media1.tenor.com/m/LRCCXE3cwosAAAAd/gandalf-bilbo.gif" alt="Descrição do GIF" width="300" align="right">
+Olá, bem-vindo!!<img src="https://media1.tenor.com/m/LRCCXE3cwosAAAAd/gandalf-bilbo.gif" alt="Descrição do GIF" width="200" align="right">
 =  
 
 Sou professor do curso técnico de Desenvolvimento de Sistemas da Proz Educação e desenvolvedor back-end, com foco em Java e integração com bancos de dados relacionais.
