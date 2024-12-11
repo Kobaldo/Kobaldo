@@ -1,5 +1,5 @@
-**Rodrigo Martins Rodrigues
-
+Oi, tudo bem? <>https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Hi.gif
+=
 Sou professor do curso técnico de Desenvolvimento de Sistemas da Proz Educação e desenvolvedor back-end nas horas vagas, com foco em Java e integração com bancos de dados relacionais.
 
 ```
