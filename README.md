@@ -1,6 +1,6 @@
 Olá, bem-vindo!!  
 =  
-<img src="https://media1.tenor.com/m/84SpdSqeGicAAAAd/welcome-lotr.gif" alt="Descrição do GIF" width="110">
+<img src="https://media1.tenor.com/m/LRCCXE3cwosAAAAd/gandalf-bilbo.gif" alt="Descrição do GIF" width="200">
 
 Sou professor do curso técnico de Desenvolvimento de Sistemas da Proz Educação e desenvolvedor back-end, com foco em Java e integração com bancos de dados relacionais.
 
