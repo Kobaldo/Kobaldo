@@ -3,6 +3,8 @@ Oi, tudo bem? <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/
 
 Sou professor do curso técnico de Desenvolvimento de Sistemas da Proz Educação e desenvolvedor back-end nas horas vagas, com foco em Java e integração com bancos de dados relacionais.
 
+Aqui salvo repositórios que uso para ministrar minhas aulas e alguns projetos pessoais.
+
 🔭 Trabalho na Proz Educação  
 🌱 Estou estudando Spring Boot e mensageria  
 📫 Como entrar em contato comigo: rodrigo.ifsemg@gmail.com  
