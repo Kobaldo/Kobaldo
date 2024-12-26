@@ -9,6 +9,9 @@ Aqui salvo repositórios que uso para ministrar minhas aulas e alguns projetos p
 🌱 Estou estudando Spring Boot e mensageria  <br>
 📫 Como entrar em contato comigo: rodrigo.ifsemg@gmail.com  <br>
 ⚡Tecnologias preferidas: Java, SQL, HTML/CSS e Javascript<br>
+<br>
+Projetos mais recentes: <br>
+-Criação de CRUD com SpringBoot, integrado ao SQLite:  https://github.com/Kobaldo/CRUD_SpringBoot
 <!--
 **Kobaldo/Kobaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
